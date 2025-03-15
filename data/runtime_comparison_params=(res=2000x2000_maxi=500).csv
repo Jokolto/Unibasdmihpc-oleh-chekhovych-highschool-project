@@ -1,0 +1,3 @@
+Runtime with pure python,39.8150694458
+Using numba compilator,1.2166598125
+parallelizing with PyOmp with 24 threads,0.16103087089999998
